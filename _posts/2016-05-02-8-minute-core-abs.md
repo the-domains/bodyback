@@ -8,7 +8,7 @@ publisher:
   url: 'https://www.youtube.com/'
   name: YouTube
   favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-  domain: www.youtube.com
+  domain: www.google.com
 keywords:
   - duration
   - abs
@@ -59,10 +59,10 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://www.youtube.com/watch?v=iIRiw7iEq8c'
+isBasedOnUrl: 'https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&sqi=2&ved=0ahUKEwjTo4_7rbzMAhVNwWMKHYuYBBUQ3ywIHTAA&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DiIRiw7iEq8c&usg=AFQjCNHCotve-_i9lIxvHD2EjHBssJZkfg&bvm=bv.121099550,d.cGc'
 title: 8 MINUTE CORE ABS
-datePublished: '2016-05-02T21:44:14.098Z'
-dateModified: '2016-05-02T21:43:08.731Z'
+datePublished: '2016-05-02T21:54:07.187Z'
+dateModified: '2016-05-02T21:42:53.594Z'
 starred: false
 sourcePath: _posts/2016-05-02-8-minute-core-abs.md
 published: true
