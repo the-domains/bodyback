@@ -1,14 +1,14 @@
-layout_spectrum: 0.1547614464070648
-typography_spectrum: 0.36314150621183217
+layout_spectrum: 0.20032187621109188
+typography_spectrum: 0.8119954722933471
 color:
-  brandStrength: 0.2523643192835152
-  lightness: 0.9677603580057621
-  saturation: 0.7493824940174818
-  rhythmicContrast: 0.48648603819310665
+  brandStrength: 0.07616034988313913
+  lightness: 0.3271861271932721
+  saturation: 0.05752168828621507
+  rhythmicContrast: 0.0021016434766352177
   brandColors:
     - '#000000'
-    - '#333333'
-    - '#FF358B'
-    - '#01B0F0'
-    - '#AEEE00'
+    - '#263248'
+    - '#7E8AA2'
+    - '#FFFFFF'
+    - '#FF9800'
 name: BodyBack
